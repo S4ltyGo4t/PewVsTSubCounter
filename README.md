@@ -1,5 +1,7 @@
 # PewVsT-SubCounter
 
+![Image of the app](images/mainWindow.png)
+
 <b>Install dependencies<br></b>
 npm install
 
@@ -12,3 +14,4 @@ npm run package-linux
 
 <b>on Mac:<br></b>
 npm run package-mac
+
