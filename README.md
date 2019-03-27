@@ -1,4 +1,4 @@
-# PewVsTSubCounter
+# PewVsT-SubCounter
 
 <b>Install dependencies<br></b>
 npm install
