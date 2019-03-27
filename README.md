@@ -6,11 +6,11 @@ npm install
 
 build app
 
-on Windows:<br>
+<b>on Windows:<br></b>
 npm run package-win
 
-on Linux: <br>
+<b>on Linux: <br></b>
 npm run package-linux
 
-on Mac:<br>
+<b>on Mac:<br></b>
 npm run package-mac
