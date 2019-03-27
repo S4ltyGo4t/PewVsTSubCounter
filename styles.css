@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Baloo Chettan', cursive;
+    background-color: rgb(80, 80, 80);
+    color: white;
+    overflow: hidden;
+}
+
+.btn {
+    width: 50%;
+    margin-left: 25%;
+}
+
+.row h1 {
+    text-align: center;
+}
+
+.block-content * {
+    background-color: white;
+    color: black;
+}
+
+.block-content img {
+    display: block;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+}
+
+.spacing {
+    margin: 1em 2em 2em;
+}

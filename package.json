@@ -1,0 +1,24 @@
+{
+  "name": "subcounter",
+  "version": "1.0.0",
+  "description": "PewDiePie vs T-Series",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+	 "package-mac": "electron-packager . --overwrite --platform=darwin --arch=x64 --icon=assets/icons/mac/icon.icns --prune=true --out=release-builds",
+	"package-win": "electron-packager . PewVsT-SubCounter --overwrite --asar=true --platform=win32 --arch=ia32 --icon=assets/icons/win/icon.ico --prune=true --out=release-builds --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName=\"PewVsT-SubCounter\"",    
+	"package-linux": "electron-packager . PewVsT-SubCounter --overwrite --asar=true --platform=linux --arch=x64 --icon=assets/icons/icon.png --prune=true --out=release-builds"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^4.1.1",
+    "electron-packager": "^13.1.1"
+  },
+  "dependencies": {
+    "google-auth-library": "^3.1.1",
+    "googleapis": "^38.0.0",
+    "jquery": "^3.3.1",
+    "jsdom": "^14.0.0"
+  }
+}
