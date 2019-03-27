@@ -1,16 +1,16 @@
 # PewVsTSubCounter
 PewDiePie vs T-Series Live Subcounter
 
-Installes dependencies<br>
+<b>Install dependencies<br></b>
 npm install
 
 build app
 
-on Windows:
+on Windows:<br>
 npm run package-win
 
-on Linux: 
+on Linux: <br>
 npm run package-linux
 
-on Mac:
+on Mac:<br>
 npm run package-mac
