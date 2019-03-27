@@ -1,5 +1,4 @@
 # PewVsTSubCounter
-PewDiePie vs T-Series Live Subcounter
 
 <b>Install dependencies<br></b>
 npm install
