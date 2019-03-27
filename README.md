@@ -1,7 +1,7 @@
 # PewVsTSubCounter
 PewDiePie vs T-Series Live Subcounter
 
-Installes dependencies
+Installes dependencies<br>
 npm install
 
 build app
