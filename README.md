@@ -4,7 +4,6 @@
 npm install
 
 build app
-
 <b>on Windows:<br></b>
 npm run package-win
 
