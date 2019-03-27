@@ -3,7 +3,7 @@
 <b>Install dependencies<br></b>
 npm install
 
-build app<br>
+<b>build app<br></b>
 <b>on Windows:<br></b>
 npm run package-win
 
